@@ -4,12 +4,12 @@
   <name>kaiaai_msgs</name>
   <version>0.0.0</version>
   <description>ROS2 messages for Kaia.ai software platform</description>
-  <maintainer email="iliao@remake.ai">Ilia O.</maintainer>
+  <maintainer email="iliao@kaia.ai">Ilia O.</maintainer>
   <license>Apache-2.0</license>
   <url type="website">https://kaia.ai</url>
   <url type="repository">https://github.com/kaiaai/kaiaai_msgs</url>
   <url type="bugtracker">https://github.com/kaiaai/kaiaai_msgs/issues</url>
-  <author email="iliao@remake.ai">Ilia O.</author>
+  <author email="iliao@kaia.ai">Ilia O.</author>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
   <depend>rclcpp</depend>
