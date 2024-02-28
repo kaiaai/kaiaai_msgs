@@ -23,6 +23,7 @@ endif()
 find_package(rosidl_default_generators REQUIRED)
 rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/KaiaaiTelemetry.msg"
+  "msg/KaiaaiTelemetry2.msg"
   DEPENDENCIES builtin_interfaces
  )
 
