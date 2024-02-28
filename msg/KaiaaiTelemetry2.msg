@@ -1,0 +1,16 @@
+builtin_interfaces/Time stamp
+uint32 seq
+float32 odom_pos_x
+float32 odom_pos_y
+float32 odom_pos_yaw
+float32 odom_vel_x
+float32 odom_vel_yaw
+float32[] joint_pos
+float32[] joint_vel
+int8 wifi_rssi
+uint16 battery_mv
+uint16[] distance_mm
+bool[] bumper
+bool[] cliff
+uint16[] touch
+uint8[] lds
