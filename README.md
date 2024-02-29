@@ -6,7 +6,8 @@
 
 ### v0.2.0 - in debug
 - added KaiaTelemetry2 message
-  - adds wifi_rssi, battery_mv, distance_mm[], bumper[], cliff[], touch[]
+  - adds wifi_rssi_dbm, battery_mv, distance_mm[], bumper[], cliff[], touch[]
+- added WifiState message
 
 ### v0.1.0
 - initial release
