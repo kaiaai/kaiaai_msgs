@@ -5,8 +5,12 @@
 ## Change Log
 
 ### v0.2.0 - in debug
+- added JointPosVel message
 - added KaiaTelemetry2 message
   - adds wifi_rssi_dbm, battery_mv, distance_mm[], bumper[], cliff[], touch[]
+  - adds scan_start_hint
+  - limits array lengths
+  - change joint_pos[], joint_vel[] to JointPosVel[]
 - added WifiState message
 
 ### v0.1.0
