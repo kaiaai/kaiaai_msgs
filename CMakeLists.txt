@@ -23,8 +23,9 @@ endif()
 
 rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/KaiaaiTelemetry.msg"
-  "msg/KaiaaiTelemetry2.msg"
   "msg/WifiState.msg"
+  "msg/JointPosVel.msg"
+  "msg/KaiaaiTelemetry2.msg"
   DEPENDENCIES builtin_interfaces
  )
 
