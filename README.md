@@ -11,7 +11,6 @@ Please sign up for an early launch invite [here](https://kaia.ai).
 - added KaiaTelemetry2 message
   - added JointPosVel message
   - adds wifi_rssi_dbm, battery_mv, distance_mm[], bumper[], cliff[], touch[]
-  - adds scan_start_hint
   - limits array lengths
   - change joint_pos[], joint_vel[] to JointPosVel[]
 - added WifiState message
