@@ -18,7 +18,6 @@ Please sign up for an early launch invite [here](https://kaia.ai).
   - limits array lengths
   - change joint_pos[], joint_vel[] to JointPosVel[]
 - added WifiState message
-- limited array lengths for compact message size
 
 ### v0.1.0
 - initial release
