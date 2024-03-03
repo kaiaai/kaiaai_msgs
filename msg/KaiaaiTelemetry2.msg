@@ -11,6 +11,6 @@ int8 wifi_rssi_dbm
 uint16 battery_mv
 uint16[<=15] distance_mm
 bool[<=15] bumper
-bool[<=14] cliff
+bool[<=15] cliff
 uint16[<=15] touch
 uint8[<=511] lds
