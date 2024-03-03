@@ -5,8 +5,6 @@ float32 odom_pos_y
 float32 odom_pos_yaw
 float32 odom_vel_x
 float32 odom_vel_yaw
-#float32[<=15] joint_pos
-#float32[<=15] joint_vel
 JointPosVel[<=15] joint
 int8 wifi_rssi_dbm
 uint16 battery_mv
@@ -14,4 +12,5 @@ uint16[<=15] distance_mm
 bool[<=15] bumper
 bool[<=15] cliff
 uint16[<=15] touch
+bool scan_start_hint
 uint8[<=511] lds
